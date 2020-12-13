@@ -2,8 +2,8 @@
 
 <br />
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/thejsboi?style=social)](https://twitter.com/intent/user?screen_name=thejsboi)
 ![](https://komarev.com/ghpvc/?username=your-github-username)
+[![Twitter Follow](https://img.shields.io/twitter/follow/thejsboi?style=social)](https://twitter.com/intent/user?screen_name=thejsboi)
 
 ## I'm a passionate front-end developer and blogger
 
