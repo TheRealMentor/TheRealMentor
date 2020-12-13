@@ -1,9 +1,10 @@
-<img alt="Welcome Banner by Nico Smit on Unsplash" src="https://images.unsplash.com/photo-1600577916048-804c9191e36c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1489&q=80"/>
+# Hi 👋, I'm Sharad
+
 <br />
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/thejsboi?style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTheRealMentor&user_id=thejsboi)
 
-## I'm a Developer, Blogger and Gamer.
+## I'm a passionate front-end developer and blogger
 
 - 🌱 I’m currently learning GraphQL
 - 🥅 2021 Goals:
