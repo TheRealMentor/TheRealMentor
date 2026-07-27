@@ -62,8 +62,6 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=TheRealMentor&layout=compact&langs_count=4&theme=default_repocard)](https://github-stats-extended.vercel.app/api/top-langs?username=TheRealMentor&layout=compact&langs_count=4&theme=default_repocard)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheRealMentor&hide_border=true" />
-
 ---
 
 <p align="center"><i>"You have power over your mind — not outside events. Realize this, and you will find strength." — Marcus Aurelius</i></p>
