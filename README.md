@@ -64,5 +64,13 @@
 
 ---
 
+### 🥅 Goals - 2026
+
+- [x] Learn Backend in Node JS
+- [ ] Learn AI and how to use effectively in projects
+- [ ] Create a fullstack app using AI
+
+---
+
 <p align="center"><i>"You have power over your mind — not outside events. Realize this, and you will find strength." — Marcus Aurelius</i></p>
 
